@@ -12,8 +12,10 @@ Sensei LMS Certificates add-on
 It adds a get certificate button that will only be displayed in the last lesson and after the course is considered completed
 ![Get Certificate Button](./assets/get_certificate_button.png)
 
-It creates a Sensei LMS to change settings
+It creates a Sensei LMS sub menu to change settings
+
 ![Admin Page](./assets/admin_page.png)
 
 And is located Here
+
 ![Admin Panel](./assets/admin_panel.png)
